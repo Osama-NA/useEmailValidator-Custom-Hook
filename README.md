@@ -68,4 +68,4 @@ export default function useEmailValidator(value){
     return [email, setEmail];
 }
 ```
-[try useEmailValidator](https://link-url-here.org)
+[try useEmailValidator](https://emailvalidationhook.netlify.app/)
